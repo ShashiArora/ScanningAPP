@@ -320,7 +320,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.map</DependentUpon>
     </Compile>
-    <None Include="ShopfloorScanning_TemporaryKey.pfx" />
     <None Include="Web References\tssstrfsh112\ActiveState.datasource">
       <DependentUpon>Reference.map</DependentUpon>
     </None>
@@ -552,8 +551,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.ico" />
-    <Content Include="Resources\Trell_b.jpg" />
-    <Content Include="Resources\Trell_s.jpg" />
     <None Include="Resources\Scrap3.bmp" />
     <None Include="Resources\MinutesWorked.bmp" />
   </ItemGroup>
