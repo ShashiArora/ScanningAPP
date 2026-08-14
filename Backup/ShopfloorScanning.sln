@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopfloorScanning", "ShopfloorScanning\ShopfloorScanning.csproj", "{53A8F34C-2323-4B18-8F39-BB938D3156CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShopfloorScanningSetup", "ShopfloorScanningSetup\ShopfloorScanningSetup.vdproj", "{B0FB5AB1-4E2A-46B3-A645-16B79BE536B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A8F34C-2323-4B18-8F39-BB938D3156CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A8F34C-2323-4B18-8F39-BB938D3156CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A8F34C-2323-4B18-8F39-BB938D3156CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A8F34C-2323-4B18-8F39-BB938D3156CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FB5AB1-4E2A-46B3-A645-16B79BE536B4}.Debug|Any CPU.ActiveCfg = Debug
+		{B0FB5AB1-4E2A-46B3-A645-16B79BE536B4}.Release|Any CPU.ActiveCfg = Release
+		{B0FB5AB1-4E2A-46B3-A645-16B79BE536B4}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
